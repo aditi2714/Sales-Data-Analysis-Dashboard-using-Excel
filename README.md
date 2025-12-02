@@ -1,13 +1,13 @@
-#📊 Sales Analytics Dashboard (Excel)
+📊 #Sales Analytics Dashboard (Excel)
 ##Dataset used
 
 
 
-##📌 Overview
+📌 ##Overview
 
 This project features an interactive Sales Analytics Dashboard built using Microsoft Excel to help visualize high-level business insights. It provides a clear understanding of profit trends, sales performance, and customer behavior, enabling effective decision-making.
 
-##🎯 Key Insights
+🎯 ##Key Insights
 
 📈 Profit Over Time: Month-wise profit growth and trend analysis
 
@@ -50,7 +50,7 @@ Sales-Analytics-Dashboard/
 │   └── monthly_sales.png
 └── README.md
 
-##📘 Summary
+📘 ##Summary
 
 This dashboard demonstrates my ability to:
 ✔ Clean and prepare datasets
